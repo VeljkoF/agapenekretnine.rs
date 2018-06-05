@@ -1,0 +1,137 @@
+.portBox{
+    padding: 15px;
+}
+.tablePrijava{
+    margin: 10px;
+}
+.portBox{
+    border-radius: 5px;
+}
+.inputtag{
+   margin: 5px 5px 5px 0px;
+}
+.inputtagg{
+   margin: 20px 15px 5px 15px;
+}
+.prijavaRegistracija{
+    text-align: center;
+}
+#ispis{
+    padding: 25px 10px 5px 5px;
+    text-align: center;
+}
+.form{
+    margin: 0px auto;
+    width: 450px;
+    margin-top: 20px;
+}
+.tabela{
+    margin: 0px auto;
+    width: 400px;
+}
+.tabela>tbody>tr>td{
+    vertical-align: middle;
+    color: black;
+    font-size: 1em;
+    width: 150px;
+}
+.tabela>tbody>tr{
+    /*display: block;*/
+}
+.tabela>tbody>tr>.submit{
+    width: 380px;
+}
+.tabela>tbody{
+    width: 400px;
+    margin: 0px auto;
+    display: block;
+}
+.tabela>tr>td>.http>p{
+    width: 30px;
+    padding: 15px 5px 15px 15px;
+}
+.tabela2{
+    margin: 0px auto;
+    width: 1000px;
+}
+.tabela3{
+    margin: 0px auto;
+    width: 450px;
+}
+.tabela3>tbody{
+    width: 450px;
+    margin: 0px auto;
+    display: block;
+}
+
+.tabela3>tr>td>.http>p{
+    width: 30px;
+    padding: 15px 5px 15px 15px;
+}
+.tabela3>tbody>tr>.submit{
+/*    width: 380px;*/
+}
+.tabela3>tbody>tr>td{
+    vertical-align: middle;
+    color: black;
+    font-size: 1em;
+    width: 150px;
+    margin: 0px auto;
+}
+
+.size{
+    width: 200px;
+}
+.size2{
+    width: 150px;
+}
+
+.submit>input{
+    width: 80px;
+}
+.right{
+    float: right;
+    color: black;
+}
+.fieldset{
+    padding: 10px;
+    width: 450px;
+    border: 1px solid #999;
+    border-radius: 10px;
+}
+
+
+.slides-pagination{
+    bottom: 50px;
+}
+.container>.naslov{
+    text-align: center;
+    padding: 10px 0px 40px 0px;
+}
+.container>.slika{
+    margin: 0px auto;
+}
+.welcome_top_right>p{
+    text-align: justify;
+}
+.br{
+    width: 100%;
+    height: 100%;
+}
+.pading{
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+.centar{
+    text-align: center;
+}
+.center-block2{
+    margin-top: 30px; 
+    display: inline-table;
+}
+.single-inline>.ispis{
+    width: 450px;
+    text-align: center;
+    margin: 0px auto;
+    margin-top: 25px;
+}
